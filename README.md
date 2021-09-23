@@ -1,5 +1,5 @@
 ## My Biggest React Project Until Now
- - Additions <br>
+### Additions: <br>
 Sign-up / Sign-in - Auth0 API <br>
 Credit Card - Stripe API <br>
 
