@@ -1,4 +1,4 @@
-## My Biggest React Project Until Now
+Guided Project From John Smilga's Course On Udemy
 ### Additions: <br>
 Sign-up / Sign-in - Auth0 API <br>
 Credit Card - Stripe API <br>
